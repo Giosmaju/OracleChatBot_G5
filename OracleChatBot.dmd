@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="OracleChatBot" id="E35044FF-DB70-DD0D-8697-6197AADA8DEF" version="3.5">
+<createdBy>Gianmarco</createdBy>
+<createdTime>2026-03-04 21:24:26 UTC</createdTime>
+<ownerDesignName>OracleChatBot</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>E35044FF-DB70-DD0D-8697-6197AADA8DEF</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="6632811A-93F8-8696-57AA-8A16BC70D5DB">
+<designStoragePath>C:\Users\Gianmarco\Downloads\OracleChatBot</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
